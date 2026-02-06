@@ -1,4 +1,4 @@
-# CNCF Governing Board Meeting Minute and Email Votes
+# CNCF Governing Board Meeting Minutes and Email Votes
 
 The CNCF Governing Board meets 3 to 5 times per year and publishes their meeting minutes and resolutions passed by email vote below for transparency.
 
