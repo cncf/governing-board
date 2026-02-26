@@ -40,10 +40,10 @@ RESOLVED, that the Governing Board hereby REJECTS the Cartography project’s re
 
 ## EXHIBIT A
 
-![image1](./images/2025-05-28_email_vote_image1.png)
+![image1](../images/2025-05-28_email_vote_image1.png)
 
-![image2](./images/2025-05-28_email_vote_image2.png)
+![image2](../images/2025-05-28_email_vote_image2.png)
 
-![image3](./images/2025-05-28_email_vote_image3.png)
+![image3](../images/2025-05-28_email_vote_image3.png)
 
-![image4](./images/2025-05-28_email_vote_image4.png)
+![image4](../images/2025-05-28_email_vote_image4.png)
