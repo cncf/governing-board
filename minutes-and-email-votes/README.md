@@ -29,7 +29,7 @@ The CNCF Governing Board meets 3 to 5 times per year and publishes their meeting
 * [December 14 - Minutes](2023/2023-12-14_minutes.md)
 * [September 14 - Minutes](2023/2023-09-14_minutes.md)
 * [August 31 - Email Vote](2023/2023-08-31_email_vote.md)
-* [July 13 - Email Vote](2023-07-13_email_vote.md)
+* [July 13 - Email Vote](2023/2023-07-13_email_vote.md)
 * [June 20 - Email Vote](2023/2023-06-20_email_vote.md)
 * [March 30 - Minutes](2023/2023-03-30_minutes.md)
 
