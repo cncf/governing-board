@@ -2,7 +2,7 @@
 
 **Approved on June 23, 2026**
 
-The Cloud Native Computing Foundation (CNCF) recognizes that maintaining the security of the ecosystem often requires immediate action. This policy provides maintainers with a streamlined path to address exploitable security vulnerabilities by allowing the temporary use of dependencies that are not on the [CNCF License Allowlist](https://www.google.com/search?q=https://www.cncf.io/allowlist) while approval of a permanent exception to the [CNCF IP Policy](https://github.com/cncf/foundation/blob/main/charter.md#11-ip-policy) is pending.
+The Cloud Native Computing Foundation (CNCF) recognizes that maintaining the security of the ecosystem often requires immediate action. This policy provides maintainers with a streamlined path to address exploitable security vulnerabilities by allowing the temporary use of dependencies that are not on the [CNCF License Allowlist](https://github.com/cncf/foundation/blob/main/policies-guidance/allowed-third-party-license-policy.md#approved-licenses-for-allowlist) while approval of a permanent exception to the [CNCF IP Policy](https://github.com/cncf/foundation/blob/main/charter.md#11-ip-policy) is pending.
 
 Capitalized terms and categories used in this policy are defined in the [CNCF Dependency Licensing Glossary](https://docs.google.com/document/d/1KZRmaP9u2GHWeetsMjKK129f3VMF8vZG99VczicAWog/edit?usp=sharing).
 
