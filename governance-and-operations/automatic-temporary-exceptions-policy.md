@@ -18,7 +18,7 @@ Before applying a temporary exception, maintainers must verify the following:
 * **No Feasible Alternatives:** There are no alternatives available that are already permitted under the [CNCF IP Policy](https://github.com/cncf/foundation/blob/main/charter.md#11-ip-policy) or [Allowlist Policy](https://github.com/cncf/foundation/blob/main/policies-guidance/allowed-third-party-license-policy.md) that could be implemented within a reasonable time frame.  
 * **Eligible Licenses:** The dependency is distributed under an Eligible License (see below).  
 * **License Conditions Satisfied:** The project’s use of the dependency will conform to all applicable requirements under “License-Specific Conditions” below.  
-* **Mandatory Exception Filing:** The project must also file a formal [License Exception Request](https://github.com/cncf/foundation).  
+* **Mandatory Exception Filing:** The project must also file a formal [License Exception Request](https://github.com/cncf/foundation/issues/new/choose). 
 * **Risk of Denial:** If the formal request is subsequently denied by the CNCF Governing Board, the project must remove the component and implement an alternative solution as soon as is practicable after receiving notification of the denial.
 
 If a project wants to make use of the temporary exception but is not sure if it applies, please ask in a comment on the license exception request issue you open in GitHub, and CNCF staff will confirm. 
