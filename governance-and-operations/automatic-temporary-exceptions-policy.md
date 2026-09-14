@@ -8,7 +8,7 @@ Capitalized terms and categories used in this policy are defined in the [CNCF De
 
 ## Scope of Temporary Approval
 
-This policy grants a **90-day** "Automatic Temporary Approval", commencing upon a CNCF project’s opening a [License Exception Request](https://github.com/cncf/foundation) for the use of non-allowlisted dependencies, provided the usage adheres to the profiles defined below. These profiles are based on the license type and the technical nature of the interaction (e.g., how the code is distributed and how data is exchanged).
+This policy grants a **90-day** "Automatic Temporary Approval", commencing upon a CNCF project’s opening a [License Exception Request](https://github.com/cncf/foundation/issues/new/choose) for the use of non-allowlisted dependencies, provided the usage adheres to the profiles defined below. These profiles are based on the license type and the technical nature of the interaction (e.g., how the code is distributed and how data is exchanged).
 
 ## Core Eligibility Requirements
 
